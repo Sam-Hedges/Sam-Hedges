@@ -1,6 +1,6 @@
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Sam-Hedges&count_private=true&hide=stars,issues&show_icons=true&theme=nord"/ width = 50%>
-  <img alt="Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-Hedges&layout=compact&theme=nord"/ width = 38%>
+  <img alt="Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-Hedges&hide=scss&layout=compact&theme=nord"/ width = 38%>
 </p>
 I'm Sam Hedges, I am currently a university student studying Computer Games Programming.
 
